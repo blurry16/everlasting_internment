@@ -35,14 +35,14 @@ init:
 
     $ sn = Character(u"Соня", color="#e00bc4", what_color="E2C778")
     image sn happy pioneer = ConditionSwitch(
-        "persistent.sprite_time=='sunset'", im.MatrixColor(im.Composite((900, 1080), (0, 0), "mods/everlasting_internment/materials/sprites/sa_happy_pioneer.png", (0, 0), NOTHING_PATH), im.matrix.tint(0.94, 0.82, 1.0)),
-        "persistent.sprite_time=='night'", im.MatrixColor(im.Composite((900, 1080), (0, 0), '', (0, 0), "mods/everlasting_internment/materials/sprites/sa_happy_pioneуr.png"), im.matrix.tint(0.63, 0.78, 0.82)),
-        True, im.Composite((900, 1080), (0, 0), "mods/everlasting_internment/materials/sprites/sa_happy_pioneer.png", (0, 0), NOTHING_PATH)
+        "persistent.sprite_time=='sunset'", im.MatrixColor(im.Composite((900, 1080), (0, 0), "mods/everlasting_internment/materials/sprites/sn_happy_pioneer.png", (0, 0), NOTHING_PATH), im.matrix.tint(0.94, 0.82, 1.0)),
+        "persistent.sprite_time=='night'", im.MatrixColor(im.Composite((900, 1080), (0, 0), '', (0, 0), "mods/everlasting_internment/materials/sprites/sn_happy_pioneуr.png"), im.matrix.tint(0.63, 0.78, 0.82)),
+        True, im.Composite((900, 1080), (0, 0), "mods/everlasting_internment/materials/sprites/sn_happy_pioneer.png", (0, 0), NOTHING_PATH)
     )
     image sn confused pioneer = ConditionSwitch(
-        "persistent.sprite_time=='sunset'", im.MatrixColor(im.Composite((900, 1080), (0, 0), "mods/everlasting_internment/materials/sprites/sa_confused_pioneer.png", (0, 0), NOTHING_PATH), im.matrix.tint(0.94, 0.82, 1.0)),
-        "persistent.sprite_time=='night'", im.MatrixColor(im.Composite((900, 1080), (0, 0), '', (0, 0), "mods/everlasting_internment/materials/sprites/sa_confused_pioneer.png"), im.matrix.tint(0.63, 0.78, 0.82)),
-        True, im.Composite((900, 1080), (0, 0), "mods/everlasting_internment/materials/sprites/sa_confused_pioneer.png", (0, 0), NOTHING_PATH)
+        "persistent.sprite_time=='sunset'", im.MatrixColor(im.Composite((900, 1080), (0, 0), "mods/everlasting_internment/materials/sprites/sn_confused_pioneer.png", (0, 0), NOTHING_PATH), im.matrix.tint(0.94, 0.82, 1.0)),
+        "persistent.sprite_time=='night'", im.MatrixColor(im.Composite((900, 1080), (0, 0), '', (0, 0), "mods/everlasting_internment/materials/sprites/sn_confused_pioneer.png"), im.matrix.tint(0.63, 0.78, 0.82)),
+        True, im.Composite((900, 1080), (0, 0), "mods/everlasting_internment/materials/sprites/sn_confused_pioneer.png", (0, 0), NOTHING_PATH)
     )
 
 
