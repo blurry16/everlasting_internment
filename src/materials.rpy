@@ -3,7 +3,7 @@ init:
 
     
     $ rm = Character(u"Рома", color="#f8b05e", what_color="E2C778")
-
+    $ rm_scores = 0
 
     $ vi = Character(u'Вика', color="#ee4a3e", what_color="E2C778")
     image vi normal pioneer = ConditionSwitch(
