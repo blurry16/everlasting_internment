@@ -48,7 +48,7 @@ init:
 init 0 python:
     from os import path
 
-    MOD_ID = "__init__"
+    MOD_ID = "prolog_dream"
     MOD_NAME = "Бесконечный Концлагерь"
     COLOR_SPRITES = False # True
 
