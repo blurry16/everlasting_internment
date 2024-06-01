@@ -1,0 +1,38 @@
+﻿ambience_boat_station_day               ## Шум воды
+ambience_boat_station_night             ## Шум воды
+ambience_camp_center_day                ## Шум птиц
+ambience_camp_center_evening            ## Шум с кукушкой и птицами
+ambience_camp_center_night              ## Кузнечики
+ambience_camp_entrance_day              ## Шум автобуса
+ambience_camp_entrance_day_people       ## Шум автобуса
+ambience_camp_entrance_evening          ## Шум кузнечика
+ambience_camp_entrance_night            ## Шум насекомых
+ambience_catacombs                      ## Эхо в катакомбах
+ambience_catacombs_stones               ## Эхо в катакомбах
+ambience_clubs_inside_day               ## Радиоклуб
+ambience_cold_wind_loop                 ## Ветер
+ambience_day_countryside_ambience       ## Шум птиц
+ambience_dining_hall_empty              ## Ложкой по тарелке один
+ambience_dining_hall_full               ## Ложкой по тарелке полная столовая
+ambience_ext_road_day                   ## Шум у дороги
+ambience_ext_road_evening               ## Шум у дороги
+ambience_ext_road_night                 ## Шум у дороги
+ambience_forest_day                     ## Шум леса
+ambience_forest_evening                 ## Шум леса
+ambience_forest_night                   ## Шум леса
+ambience_grasshoper_clean               ## Кузнечик
+ambience_int_cabin_day                  ## Часы 1
+ambience_int_cabin_evening              ## Часы 1
+ambience_int_cabin_night                ## Часы 1
+ambience_lake_shore_day                 ## Шум реки, птиц
+ambience_lake_shore_evening             ## Шум реки, насекомых
+ambience_lake_shore_night               ## Шум реки, насекомого
+ambience_library_day                    ## Листают книги
+ambience_medium_crowd_indoors_1         ## Шум разговоров
+ambience_medium_crowd_outdoors          ## Шум разговоров
+ambience_medstation_inside_day          ## Часы 2
+ambience_medstation_inside_night        ## Часы 2
+ambience_music_club_day                 ## Часы в музклубе
+ambience_music_club_night               ## Часы в музклубе
+ambience_old_camp_outside               ## Насекомые
+ambience_soccer_play_background         ## Игра на спортплощадке

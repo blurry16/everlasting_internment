@@ -1,0 +1,240 @@
+﻿Release:
+cg d1_food_normal                           ## еда с котлетой
+cg d1_food_skolop                           ## еда со сколопендрой
+cg d1_grasshopper                           ## Ульяна пугает Лену кузнечиком
+cg d1_rena_sunset                           ## Рена
+cg d1_sl_dinner                             ## Славя пуслила в столовую глаза в бок
+cg d1_sl_dinner_0                           ## Славя пуслила в столовую глаза прямо
+cg d1_uv                                    ## Юля склонилась над тобой
+cg d1_uv_2                                  ## Юля склонилась над тобой(сзади автобус)
+cg d2_2ch_beach                             ## Какие-то ноги
+cg d2_lineup                                ## Линейка
+cg d2_micu_lib                              ## Женя спит в библиотеке
+cg d2_miku_piano                            ## Мику под пианино заметила вас
+cg d2_miku_piano2                           ## Мику моет под пианино
+cg d2_mirror                                ## Отражение Семёна
+cg d2_mt_undressed                          ## Ольга переодевается
+cg d2_mt_undressed_2                        ## Ольга вас заметила
+cg d2_slavya_forest                         ## Славя раздевается в лесу
+cg d2_sovenok                               ## Лена прижалась к вашей спине
+cg d2_ussr_falling                          ## Ульяна падает на вас со сцены
+cg d2_water_dan                             ## Алиса стянула трусы с вас
+cg d3_disco                                 ## Дискотека
+cg d3_dv_guitar                             ## Алиса играет на гитаре(пока ещё не видит)
+cg d3_dv_scene_1                            ## Вы играете на гитаре(Алиса смотрит)
+cg d3_dv_scene_2                            ## Алиса играет(смотрите вы)
+cg d3_sl_bathhouse                          ## Славя в бане
+cg d3_sl_dance                              ## Танцуете со Славей
+cg d3_sl_evening                            ## Вы со Славей на берегу реки
+cg d3_sl_library                            ## Вы упали на Славю в библиотеке
+cg d3_soccer                                ## Ульяна ударила по мячу
+cg d3_un_dance                              ## Танцуете с Леной
+cg d3_un_forest                             ## Идёте вместе с Леной
+cg d3_us_dinner                             ## Поймали Ульяну после пролитого компота
+cg d3_us_library_1                          ## Ульяна слушает историю в библиотеке
+cg d3_us_library_2                          ## Ульяна испугалась истории
+cg d3_us_library_3                          ## Ульяна лежит на Семёне в библиотеке
+cg d3_us_library_4                          ## Ульяна спит на Семёне в библиотеке
+cg d3_ussr_catched                          ## Ульяна поймана в лесу(Насиловать будешь?)
+cg d4_catac                                 ## Семён один в катакомбах
+cg d4_catac_dv                              ## Семён с Алисой в катакомбах
+cg d4_catac_sl                              ## Семён со Славей в катакомбах
+cg d4_catac_un                              ## Семён с Леной в катакомбах
+cg d4_catac_us                              ## Семён с Ульяной в катакомбах удивлённые
+cg d4_catac_us_2                            ## Семён с Ульяной в катакомбах обычные
+cg d4_dv_mt                                 ## Ольга ругает Алису
+cg d4_el_wash                               ## Электроник моется
+cg d4_mi_guitar                             ## Мику играет на гитаре
+cg d4_mi_sing                               ## Мику поёт
+cg d4_sh_sit                                ## Шурик грызёт палец
+cg d4_sh_stay                               ## Шурик напал с арматурой
+cg d4_us_cancer                             ## Ульяна мучает рака
+cg d4_us_morning                            ## Ульяна спит на Семёне в библиотеке утро
+cg d4_uv                                    ## Нашли Юлю в пещере видно
+cg d4_uv_1                                  ## Нашли Юлю в пещере не видно
+cg d5_boat                                  ## Везете Славю и Лену на остров
+cg d5_boat_2                                ## Везете Алису на остров
+cg d5_cake                                  ## Ульяна накидывается на торт
+cg d5_clubs_robot                           ## Робот в клубе
+cg d5_cs                                    ## Виола в больнице
+cg d5_dv_argue                              ## Алиса в ярости
+cg d5_dv_argue_2                            ## Алиса смущенна 
+cg d5_dv_argue_3                            ## Алиса краснеет
+cg d5_dv_island                             ## Семён с Алисой идут
+cg d5_dv_us_wash                            ## Алиса моет Ульяну
+cg d5_dv_us_wash_2                          ## Алиса моет Ульяну
+cg d5_dv_us_wash_3                          ## Ульяна украла лифчик
+cg d5_dv_us_wash_4                          ## Семён сбегает с одеждой
+cg d5_mi                                    ## Мику
+cg d5_sh_us                                 ## Ульяна украла моток проволки
+cg d5_sl_sleep                              ## Славя спит на Семёне в медпункте
+cg d5_sl_sleep_2                            ## Славя проснулась на Семёне в медпункте
+cg d5_strawberry_race                       ## Семён гребёт от глубники-маньяков
+cg d5_un_island                             ## Лена прячется за деревом
+cg d5_un_sleep                              ## Лена и Семён спят
+cg d5_us_ghost                              ## Ульяна с Семёном прячутся за кустами
+cg d5_us_ghost_2                            ## Ульяна пугает людей у костра
+cg d5_us_kiss                               ## Ульяна целует Семёна
+cg d5_us_sit                                ## Ульяна спит на Семёне
+cg d5_uv                                    ## Семён увидел Юлю, когда он в автобусе
+cg d5_uv_2                                  ## Юля посыпает сахаром грибы
+cg d6_dv_fight                              ## Лена ударила Алису
+cg d6_dv_fight_2                            ## Лена ударила Алису плачет
+cg d6_dv_fight_3                            ## Лена ударила Алису ушла
+cg d6_dv_hentai                             ## Секс с Алисой
+cg d6_dv_hentai_2                           ## Секс с Алисой
+cg d6_pioneer                               ## Семён прячется за углом
+cg d6_sl_forest                             ## Семён со Славей
+cg d6_sl_forest_2                           ## Семён со Славей спина к спине
+cg d6_sl_swim                               ## Славя плескается
+cg d2_sl_swim                               ## Славя входит в воду
+cg d6_sl_hentai_1                           ## Секс со Славей одета
+cg d6_sl_hentai_2                           ## Секс со Славей раздета
+cg d6_un_evening_1                          ## Лена с Семёном сидят на лавочке смотрят в небо
+cg d6_un_evening_2                          ## Лена с Семёном сидят на лавочке смотрят в пол
+cg d6_un_punch                              ## Лена удар Алису
+cg d6_us_film                               ## Ульяна с Семёном смотрят фильм
+cg d6_us_night_2                            ## Ульяна проснулась на Семёне 
+cg d6_uv                                    ## Юля у Семёна за спиной
+cg d6_uv_2                                  ## Юля лежит на коленках
+cg d7_dv                                    ## Семён и Алиса у костра
+cg d7_dv_2                                  ## Семён упал на Алису
+cg d7_pioneers_leaving                      ## Линейка с Ульяной
+cg d7_pioneers_leaving_without_us           ## Линейка без Ульяны
+cg d7_sl_morning                            ## Семён в спальнике со Славей(спит)
+cg d7_sl_morning_2                          ## Семён в спальнике со Славей(проснулась)
+cg d7_un_hentai                             ## Секс с Леной
+cg d7_un_hentai_3                           ## Секс с Леной
+cg d7_un_suicide                            ## Лена вскрылась
+cg d7_uv                                    ## Юля спит
+cg day4_us_morning                          ## Ульяна спит в библиотеке на Семёне
+cg epilogue_dv_2                            ## Концерт
+cg epilogue_dv_3                            ## Встреча с Алисой после концерта
+cg epilogue_mi_1                            ## Семён с Мику на пляже
+cg epilogue_mi_2                            ## Мёртвая Славя
+cg epilogue_mi_3                            ## Ульяна-зомби
+cg epilogue_mi_4                            ## Алиса повешенная
+cg epilogue_mi_5                            ## Орда Ульян-зомби
+cg epilogue_mi_6                            ## Ульяна-зомби держит голову
+cg epilogue_mi_7                            ## Алиса-зомби
+cg epilogue_mi_8                            ## Алиса-зомби с мачете
+cg epilogue_mi_9                            ## Семён целует Мику
+cg epilogue_sl                              ## Славя хорошая концовка отвёрнута
+cg epilogue_sl_2                            ## Славя хорошая концовка повёрнута
+cg epilogue_un                              ## Алиса на скамейке
+cg epilogue_un_bad                          ## Семён вскрылся
+cg epilogue_un_good                         ## Семён с Леной муж-жена
+cg epilogue_us                              ## Семён в полной аудитории
+cg epilogue_us_3_a                          ## Семён с Ульяной в аудитории
+cg epilogue_us_alone                        ## Семён один в аудитории
+cg epilogue_uv                              ## Семён после Юли рут
+cg epilogue_uv_2                            ## Выбор девушек
+cg epilogue_uv_3                            ## не работает
+cg miku_h_1_cenz                            ## Секс с Мику
+cg miku_h_2_cenz                            ## Секс с Мику кричит
+cg final_all_2                              ## Гаремная концовка
+cg uvao_h_cenz                              ## Секс с Юлей
+
+anim blink_down                             ## Блик верх-низ
+anim blink_up                               ## Блик низ-верх
+anim candle_1                               ## Свеча 1
+anim candle_2                               ## Свеча 2
+anim intro_1                                ## Интро
+anim intro_10                               ## Вход в автобус
+anim intro_11                               ## Открытые двери автобуса
+anim intro_12                               ## Входит в автобус
+anim intro_13                               ## автобус поехал
+anim intro_14                               ## Небо из автобуса
+anim intro_15                               ## Отражение зрачка
+anim intro_16                               ## Дорога
+anim intro_2                                ## Дома в городе
+anim intro_3                                ## Семён идёт на остановку
+anim intro_4                                ## Машины едут
+anim intro_5                                ## Размытый Семён
+anim intro_6                                ## Чёткий Семён
+anim intro_7                                ## Остановка
+anim intro_8                                ## Близкое лицо Семёна
+anim intro_9                                ## Автобус подезжает
+anim owl_1                                  ## Сова
+anim owl_2                                  ## Сова
+anim prolog_10                              ## Квартира Семёна
+anim prolog_11                              ## Квартира Семёна
+anim prolog_14                              ## Квартира Семёна
+anim prolog_15                              ## Квартира Семёна
+anim prolog_1                               ## Туман
+anim prolog_2                               ## Туман
+anim prolog_3                               ## Квартира Семёна
+anim prolog_4                               ## Квартира Семёна
+anim prolog_5                               ## Квартира Семёна
+anim prologue_1                             ## Помехи
+anim prologue_2                             ## Помехи
+anim prologue_3                             ## Помехи
+anim prologue_keyboard_1                    ## Комп
+anim prologue_keyboard_2                    ## Комп
+anim prologue_keyboard_3                    ## Комп
+anim prologue_keyboard_4                    ## Комп
+anim prologue_keyboard_monitor_1            ## Комп
+anim prologue_keyboard_monitor_2            ## Комп
+anim prologue_keyboard_monitor_3            ## Комп
+anim prologue_keyboard_monitor_4            ## Комп
+anim prologue_monitor_1                     ## Комп
+anim prologue_monitor_2                     ## Комп
+anim prologue_monitor_3                     ## Комп
+anim prologue_monitor_4                     ## Комп
+anim snow                                   ## Не работает
+anim stars_1                                ## Звёзды
+anim stars_3                                ## Звёзды
+
+soviet_games                                ## Лого советов
+
+disclaimer                                  ## Игра является плодом...
+
+splashscreen_day                            ## Дорога день
+logo_day                                    ## Лого день
+splashscreen_night                          ## Дорога ночь
+logo_night                                  ## Лого ночь
+splashscreen_sunset                         ## Дорога закат
+logo_sunset                                 ## Лого закат
+
+achievement                                 ## Ачивка (Вы дождались эроге)
+achievement3                                ## Ачивка (Хентай мастер)
+
+dv_bad                                      ## Ачивка (Лидер митол-группы)
+dv_good                                     ## Ачивка (Гуру пикапа)
+un_bad                                      ## Ачивка (Вскрываеся)
+un_good                                     ## Ачивка (Всё как у людей)
+sl_bad                                      ## Ачивка(Успешный превозмогатель)
+sl_good                                     ## Ачивка (Тёплая ламповость)
+us_bad                                      ## Ачивка (ICQ выше среднего)
+us_good                                     ## Ачивка (Гроза педобиров)
+main_bad                                    ## Ачивка (Эпик фейл)
+main_good                                   ## Ачивка (Титан одиночества)
+mi                                          ## Ачивка (What is it, i don't even)
+uv_city                                     ## Ачивка (Гарем мастер 80 лвл)
+uv_unknown_fucken_shit                      ## не работает
+
+op_back                                     ## в лиазе
+op_sl                                       ## Славя
+op_un                                       ## Лена
+op_us                                       ## Ульяна
+op_dv                                       ## Алиса
+op_mi                                       ## Мику
+op_uv1                                      ## Юля
+op_uv2                                      ## Юля
+op_uv3                                      ## Юля
+
+backdrop_text                               ## не работает
+
+Extra:(Не работают)
+image cg d1_rowrow
+image cg d1_uvao_bus
+image cg d3_fag_room
+image cg d3_potato_1
+image cg d3_potato_2
+image cg d7_un_hentai_2
+image cg epilogue_mi_hentai_1
+image cg epilogue_mi_hentai_2
+image cg epilogue_mi_hentai_3
+image cg epilogue_us_1
+image cg epilogue_us_4
+image cg wtf_end_of_day

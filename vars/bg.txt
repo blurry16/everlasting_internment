@@ -1,0 +1,138 @@
+﻿Release:
+bg bus_stop                                             ## Автобусная остановка зима
+bg ext_aidpost_day                                      ## Здание Больница день
+bg ext_aidpost_night                                    ## Здание Больница ночь
+bg ext_bathhouse_night                                  ## Здание Баня ночь
+bg ext_beach_day                                        ## Пляж день
+bg ext_beach_night                                      ## Пляж ночь
+bg ext_beach_sunset                                     ## Пляж закат
+bg ext_boathouse_day                                    ## Лодочная станция день
+bg ext_boathouse_night                                  ## Лодочная станция день
+bg ext_bus                                              ## Лагерная остановка с автобусом день
+bg ext_bus_night                                        ## Лагерная остановка с автобусом ночь
+bg ext_camp_entrance_day                                ## Лагерные ворота день
+bg ext_camp_entrance_night                              ## Лагерные ворота ночь
+bg ext_clubs_day                                        ## Здание Клубы день
+bg ext_clubs_night                                      ## Здание Клубы ночь
+bg ext_dining_hall_away_day                             ## Здание столовой день
+bg ext_dining_hall_away_night                           ## Здание столовой ночь
+bg ext_dining_hall_away_sunset                          ## Здание столовой закат
+bg ext_dining_hall_near_day                             ## Крыльцо столовой день
+bg ext_dining_hall_near_night                           ## Крыльцо столовой ночь
+bg ext_dining_hall_near_sunset                          ## Крыльцо столовой закат
+bg ext_house_of_dv_day                                  ## Здание Дом Алисы день
+bg ext_house_of_dv_night                                ## Здание Дом  Алисы ночь
+bg ext_house_of_mt_day                                  ## Здание Дом Ольги день
+bg ext_house_of_mt_night                                ## Здание Дом Ольги ночь со светом
+bg ext_house_of_mt_night_without_light                  ## Здание Дом Ольги ночь без света
+bg ext_house_of_mt_sunset                               ## Здание Дом Ольги закат
+bg ext_house_of_sl_day                                  ## Здание Дом Слави день
+bg ext_house_of_un_day                                  ## Здание Дом Лены
+bg ext_houses_day                                       ## Домики день
+bg ext_houses_sunset                                    ## Домики закат
+bg ext_island_day                                       ## Остров день
+bg ext_island_night                                     ## Остров ночь
+bg ext_library_day                                      ## Здание Библиотеки день
+bg ext_library_night                                    ## Здание Библиотеки ночь
+bg ext_musclub_day                                      ## Здание Музклуба день
+bg ext_no_bus                                           ## Лагерная остановка без автобуса день
+bg ext_no_bus_night                                     ## Лагерная остановка без автобуса ночь
+bg ext_no_bus_sunset                                    ## Лагерная остановка без автобуса закат
+bg ext_old_building_night                               ## Старый лагерь ночь
+bg ext_old_building_night_moonlight                     ## Старый лагерь в лунном свете
+bg ext_path2_day                                        ## Лес день
+bg ext_path2_night                                      ## Лес ночь
+bg ext_path_day                                         ## Путь к полянке с костром день
+bg ext_path_night                                       ## Путь к полянке с костром ночь
+bg ext_path_sunset                                      ## Путь к полянке с костром закат
+bg ext_playground_day                                   ## Спортплощадка день
+bg ext_playground_night                                 ## Спортплощадка ночь
+bg ext_polyana_day                                      ## Поляна с костром день
+bg ext_polyana_night                                    ## Поляна с костром ночь
+bg ext_polyana_sunset                                   ## Поляна с костром закат
+bg ext_road_day                                         ## Дорога день
+bg ext_road_night                                       ## Дорога ночь с городом
+bg ext_road_night2                                      ## Дорога ночь без города
+bg ext_road_sunset                                      ## Дорога закат
+bg ext_square_day                                       ## Площадь день
+bg ext_square_day_city                                  ## Площадь день с городом
+bg ext_square_night                                     ## Площадь ночь
+bg ext_square_night_party                               ## Площадь вечеринка ночь
+bg ext_square_night_party2                              ## Площадь после вечеринки ночь
+bg ext_square_sunset                                    ## Площадь закат
+bg ext_stage_big_night                                  ## Вся сцена ночь
+bg ext_stage_normal_day                                 ## Перед сценой день
+bg ext_stage_normal_night                               ## Перед сценой ночь
+bg ext_washstand2_day                                   ## Умывальник
+bg ext_washstand_day                                    ## Умывальники
+bg int_aidpost_day                                      ## В больнице день
+bg int_aidpost_day_apple                                ## В больнице яблоко
+bg int_aidpost_night                                    ## В больнице ночь
+bg int_bus                                              ## В автобусе день
+bg int_bus_black                                        ## В автобусе с чёрными
+bg int_bus_night                                        ## В автобусе ночь
+bg int_bus_people_day                                   ## В автобусе с людьми день
+bg int_bus_people_night                                 ## В автобусе с людьми ночь
+bg int_catacombs_door                                   ## Дверь катакомб
+bg int_catacombs_entrance                               ## Коридор катакомб
+bg int_catacombs_entrance_red                           ## Коридор катакомб с красным светом
+bg int_catacombs_hole                                   ## Дыра в катакомбах
+bg int_catacombs_living                                 ## Бункер с дверью
+bg int_catacombs_living_nodoor                          ## Бункер без двери
+bg int_clubs_male2_night 								## Подсобка клубов со светом
+bg int_clubs_male2_night_nolight 						## Подсобка клубов без света
+bg int_clubs_male_day 									## Внутри клубов день
+bg int_clubs_male_sunset 								## Внутри клубов закат
+bg int_dining_hall_day 									## В столовой день
+bg int_dining_hall_night 								## В столовой ночь
+bg int_dining_hall_people_day 							## В столовой с людьми день
+bg int_dining_hall_sunset 								## В столовой закат
+bg int_house_of_dv_day 									## В доме Алисы день
+bg int_house_of_dv_night 								## В доме Алисы ночь
+bg int_house_of_mt_day 									## В доме Ольги день
+bg int_house_of_mt_night 								## В доме Ольги со светом ночь 
+bg int_house_of_mt_night2 								## В доме Ольги без света ночь 
+bg int_house_of_mt_noitem_night 						## В доме Ольги со светом без фонаря ночь 
+bg int_house_of_mt_sunset 								## В доме Ольги закат
+bg int_house_of_sl_day 									## В доме Слави день
+bg int_house_of_un_day 									## В доме Лены день
+bg int_house_of_un_night 								## В доме Лены ночь
+bg int_liaz 											## В Лиазе ночь
+bg int_library_day 										## В библиотеке день
+bg int_library_night 									## В библиотеке без света ночь
+bg int_library_night2 									## В библиотеке со светом ночь
+bg int_mine 											## Шахта
+bg int_mine_coalface 									## Пещера
+bg int_mine_crossroad 									## Развилка в шахте
+bg int_mine_door 										## Дверь в шахте
+bg int_mine_exit_night_light 							## Выход к площади из шахты со светом ночь
+bg int_mine_exit_night_nolight 							## Выход к площади из шахты без света ночь
+bg int_mine_exit_night_torch 							## Выход к площади из шахты с факелом ночь
+bg int_mine_halt 										## Поворот направо в шахте
+bg int_mine_room 										## Комната в шахте
+bg int_mine_room_red 									## Комната в шахте в красном
+bg int_musclub_day 										## В музклубе день
+bg int_old_building_night 								## В заброшенном лагере ночь
+bg intro_xx 											## Семён едет в Совёнок
+bg semen_room 											## Комната Семёна
+bg semen_room_window 									## Окно квартиры
+
+Extra:
+bg ext_aidpost_sunset 			## Не работает
+bg ext_boathouse_sunset 		## Не работает
+bg ext_camp_entrance_sunset 	## Не работает
+bg ext_clubs_sunset 			## Не работает
+bg ext_house_of_el_day 			## Не работает
+bg ext_library_sunset 			## Библиотека закат
+bg ext_playground_sunset 		## Не работает
+bg ext_stage_big_day 			## Вся сцена день
+bg int_house_of_mt_noitem_day 	## Не работает
+bg int_mine_exit 				## Не работает
+
+bg ext_bus_driver 					## Не работает
+bg ext_house_of_el_night 			## Не работает
+bg ext_path_night_2009 				## Не работает
+
+bg ext_square_winterday		 	## Не работает
+bg ext_square_winterday_ex 		## Не работает
+bg ext_square_winternight 		## Не работает
