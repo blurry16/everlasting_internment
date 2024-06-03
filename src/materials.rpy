@@ -1,7 +1,8 @@
 init:
     $ NOTHING_PATH = "mods/everlasting_internment/materials/nothing.png"
 
-    
+    $ config.developer = True
+
     $ rm = Character(u"Рома", color="#f8b05e", what_color="E2C778")
     $ rm_scores = 0
 
@@ -47,8 +48,8 @@ init:
 
 init 0 python:
     from os import path
-
-    MOD_ID = "prolog_dream"
+    
+    MOD_ID = "label_selector" if config.developer else "prolog_dream"
     MOD_NAME = "Бесконечный Концлагерь"
     COLOR_SPRITES = False # True
 
