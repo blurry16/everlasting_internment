@@ -1,4 +1,11 @@
-# Console app nothing to say about it
+characters = {
+    "Рома": "rm",
+    "Вика": "vi",
+    "Андрей": "le",
+    "Соня": "sa",
+    "…": "dreamgirl",
+    "...": "dreamgirl",
+}
 
 with open(
     r"D:\Everlasting Summer\game\mods\everlasting_internment\src\input.txt",
@@ -6,15 +13,6 @@ with open(
     encoding="UTF-8",
 ) as file:
     data = file.readlines()
-
-characters = {
-    "Рома": "rm",
-    "Вика": "vi",
-    "Андрей": "le",
-    "Соня": "sa",
-    "…": "dreamgirl",
-    "...": "dreamgirl"
-}
 
 for index, i in enumerate(data):
     if "~" == data[index][0]:

@@ -15,3 +15,7 @@ label label_selector:
                     jump prolog_dream_scenario_3
                 "prolog_morning":
                     jump prolog_morning
+        "day1.rpy":
+            menu:
+                "day1_start":
+                    jump day1_start
