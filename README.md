@@ -10,5 +10,5 @@
 ### Лицензии
 <https://github.com/blurry16/everlasting_internment/blob/main/COPYING>
 
-<https://github.com/blurry16/everlasting_internment/blob/main/src/LICENSE.md>
+<https://github.com/blurry16/everlasting_internment/blob/main/src/LICENSE.md>  
 <https://github.com/blurry16/everlasting_internment/blob/main/materials/LICENSE.md>
